@@ -6,11 +6,11 @@
   "display_name": "Google Analytics",
   "cli_name": "google-analytics-solo-pp-cli",
   "creator": {
-    "handle": "pooriaarab",
+    "handle": "itsryanarmani",
     "name": "Pooria Arab"
   },
-  "owner": "pooriaarab",
-  "printer": "pooriaarab",
+  "owner": "itsryanarmani",
+  "printer": "itsryanarmani",
   "printer_name": "Pooria Arab",
   "spec_path": "ga4-data-v1beta.json",
   "spec_format": "openapi3",

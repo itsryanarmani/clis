@@ -42,9 +42,9 @@ checksum:
 brews:
   - name: cineplex-pp-cli
     repository:
-      owner: pooriaarab
+      owner: itsryanarmani
       name: homebrew-tap
-    homepage: "https://github.com/pooriaarab/cineplex-pp-cli"
+    homepage: "https://github.com/itsryanarmani/cineplex-pp-cli"
     description: "Cineplex Canada theatrical, ticketing, food, and SCENE+ API. Two auth hosts: subscription key for apis.cineplex."
     install: |
       bin.install "cineplex-pp-cli"

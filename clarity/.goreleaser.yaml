@@ -42,9 +42,9 @@ checksum:
 brews:
   - name: clarity-pp-cli
     repository:
-      owner: pooriaarab
+      owner: itsryanarmani
       name: homebrew-tap
-    homepage: "https://github.com/pooriaarab/clarity-pp-cli"
+    homepage: "https://github.com/itsryanarmani/clarity-pp-cli"
     description: "Export project traffic and behavioral insights from Microsoft Clarity."
     install: |
       bin.install "clarity-pp-cli"

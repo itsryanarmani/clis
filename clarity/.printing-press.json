@@ -6,11 +6,11 @@
   "display_name": "Microsoft Clarity Data",
   "cli_name": "clarity-pp-cli",
   "creator": {
-    "handle": "pooriaarab",
+    "handle": "itsryanarmani",
     "name": "Pooria Arab"
   },
-  "owner": "pooriaarab",
-  "printer": "pooriaarab",
+  "owner": "itsryanarmani",
+  "printer": "itsryanarmani",
   "printer_name": "Pooria Arab",
   "spec_path": "clarity-spec.yaml",
   "spec_format": "openapi3",

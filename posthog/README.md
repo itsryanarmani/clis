@@ -2,7 +2,7 @@
 
 
 
-Created by [@pooriaarab](https://github.com/pooriaarab) (Pooria Arab).
+Created by [@itsryanarmani](https://github.com/itsryanarmani) (Pooria Arab).
 
 ## Install
 

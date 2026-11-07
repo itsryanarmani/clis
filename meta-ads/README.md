@@ -9,7 +9,7 @@ Meta's own [official Ads MCP server](https://developers.facebook.com/documentati
 Build from source (requires [Go](https://go.dev/dl/) 1.22+):
 
 ```bash
-git clone https://github.com/pooriaarab/clis.git
+git clone https://github.com/itsryanarmani/clis.git
 cd clis/meta-ads
 go build -o meta-ads-pp-cli ./cmd/meta-ads-pp-cli
 sudo mv meta-ads-pp-cli /usr/local/bin/   # or anywhere on your PATH

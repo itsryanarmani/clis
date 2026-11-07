@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "id": "rename-github-owner",
+  "applied_at": "2026-11-07",
+  "summary": "Use the current GitHub owner for repository metadata, source paths, and links.",
+  "reason": "An old login redirect ends when another user claims the name. Keep App names and personal attribution unchanged.",
+  "files": [
+    ".goreleaser.yaml",
+    "README.md"
+  ]
+}
