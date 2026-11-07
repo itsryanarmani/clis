@@ -6,11 +6,11 @@
   "display_name": "Reddit Advertising",
   "cli_name": "reddit-ads-pp-cli",
   "creator": {
-    "handle": "pooriaarab",
+    "handle": "itsryanarmani",
     "name": "Pooria Arab"
   },
   "owner": "itsryanarmani",
-  "printer": "pooriaarab",
+  "printer": "itsryanarmani",
   "printer_name": "Pooria Arab",
   "spec_url": "https://ads-api.reddit.com/api/v3/openapi.json",
   "spec_path": "reddit-openapi.json",

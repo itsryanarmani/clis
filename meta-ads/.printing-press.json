@@ -6,11 +6,11 @@
   "display_name": "Meta Marketing",
   "cli_name": "meta-ads-pp-cli",
   "creator": {
-    "handle": "pooriaarab",
+    "handle": "itsryanarmani",
     "name": "Pooria Arab"
   },
   "owner": "itsryanarmani",
-  "printer": "pooriaarab",
+  "printer": "itsryanarmani",
   "printer_name": "Pooria Arab",
   "spec_url": "https://developers.facebook.com/docs/marketing-api/reference/",
   "spec_path": "meta-marketing-openapi.json",

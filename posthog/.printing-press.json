@@ -6,11 +6,11 @@
   "display_name": "Posthog",
   "cli_name": "posthog-pp-cli",
   "creator": {
-    "handle": "pooriaarab",
+    "handle": "itsryanarmani",
     "name": "Pooria Arab"
   },
   "owner": "itsryanarmani",
-  "printer": "pooriaarab",
+  "printer": "itsryanarmani",
   "printer_name": "Pooria Arab",
   "spec_path": "posthog-schema-fixed.yaml",
   "spec_format": "openapi3",
