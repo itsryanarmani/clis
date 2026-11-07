@@ -3,7 +3,7 @@ package cli
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/submit/internal/kit"
+	"github.com/itsryanarmani/clis/submit/internal/kit"
 )
 
 func kitCmd(env *Env) *cobra.Command {

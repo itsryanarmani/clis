@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	UserAgent    = "merx-cli/0.1 (+https://github.com/pooriaarab/clis)"
+	UserAgent    = "merx-cli/0.1 (+https://github.com/itsryanarmani/clis)"
 	DefaultDelay = 5 * time.Second
 	maxAttempts  = 3
 )

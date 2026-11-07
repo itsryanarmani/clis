@@ -3,7 +3,7 @@ package e2e
 import (
 	"testing"
 
-	"github.com/pooriaarab/clis/submit/e2e/fakes"
+	"github.com/itsryanarmani/clis/submit/e2e/fakes"
 )
 
 const checkSite = "https://widgets.example.com"

@@ -1,6 +1,6 @@
-# pooriaarab/clis
+# itsryanarmani/clis
 
-Working, source-available CLIs for APIs that don't ship a good one of their own. Sibling repo to [pooriaarab/skills](https://github.com/pooriaarab/skills) — skills are specs, these are runnable code.
+Working, source-available CLIs for APIs that don't ship a good one of their own. Sibling repo to [itsryanarmani/skills](https://github.com/itsryanarmani/skills) — skills are specs, these are runnable code.
 
 Each CLI is generated from the platform's real API spec via [cli-printing-press](https://github.com/mvanhorn/cli-printing-press), then hand-patched where the generator's coverage falls short (see each project's `.printing-press-patches/` for exactly what and why). All three are flag-driven, JSON-output-capable, and built for both terminal use and AI-agent consumption (`--json`, `--dry-run`, `--select`, MCP server binary alongside the CLI binary).
 
@@ -53,7 +53,7 @@ Most ad-platform APIs are wide (dozens to hundreds of resource types) but struct
 Every CLI here is a standalone Go module — no shared build step, no monorepo tooling required:
 
 ```bash
-git clone https://github.com/pooriaarab/clis.git
+git clone https://github.com/itsryanarmani/clis.git
 cd clis/<cli-name>
 go build -o <cli-name>-pp-cli ./cmd/<cli-name>-pp-cli
 ```

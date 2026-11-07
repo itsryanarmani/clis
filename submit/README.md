@@ -11,7 +11,7 @@ Tested against local fake servers only (`make e2e`). The Launching Next form sha
 ## Install
 
 ```bash
-git clone https://github.com/pooriaarab/clis.git
+git clone https://github.com/itsryanarmani/clis.git
 cd clis/submit
 make build
 ```

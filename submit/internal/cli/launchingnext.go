@@ -7,9 +7,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/submit/internal/launchingnext"
-	"github.com/pooriaarab/clis/submit/internal/sites"
-	"github.com/pooriaarab/clis/submit/internal/store"
+	"github.com/itsryanarmani/clis/submit/internal/launchingnext"
+	"github.com/itsryanarmani/clis/submit/internal/sites"
+	"github.com/itsryanarmani/clis/submit/internal/store"
 )
 
 func launchingNextCmd(env *Env) *cobra.Command {

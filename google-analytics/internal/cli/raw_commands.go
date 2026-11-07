@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/pooriaarab/clis/google-analytics/internal/ga4"
+	"github.com/itsryanarmani/clis/google-analytics/internal/ga4"
 	"github.com/spf13/cobra"
 )
 

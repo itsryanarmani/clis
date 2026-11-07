@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/submit/internal/output"
+	"github.com/itsryanarmani/clis/submit/internal/output"
 )
 
 type cobraCmd = cobra.Command

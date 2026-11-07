@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/pooriaarab/clis/google-analytics/internal/cli"
+	"github.com/itsryanarmani/clis/google-analytics/internal/cli"
 )
 
 func main() {
