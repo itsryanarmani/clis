@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/search-console/internal/bing"
+	"github.com/itsryanarmani/clis/search-console/internal/bing"
 )
 
 func bingSitemapCmd(env *Env) *cobra.Command {

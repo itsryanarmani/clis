@@ -4,7 +4,7 @@ package main
 import (
 	"os"
 
-	"github.com/pooriaarab/clis/search-console/internal/cli"
+	"github.com/itsryanarmani/clis/search-console/internal/cli"
 )
 
 func main() {

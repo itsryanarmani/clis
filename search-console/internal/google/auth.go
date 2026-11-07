@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
 )
 
 // Endpoints. GOOGLE_OAUTH_AUTH_URL and GOOGLE_OAUTH_TOKEN_URL override them.

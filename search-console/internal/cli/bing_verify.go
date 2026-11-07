@@ -8,9 +8,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/search-console/internal/backoff"
-	"github.com/pooriaarab/clis/search-console/internal/bing"
-	"github.com/pooriaarab/clis/search-console/internal/cloudflare"
+	"github.com/itsryanarmani/clis/search-console/internal/backoff"
+	"github.com/itsryanarmani/clis/search-console/internal/bing"
+	"github.com/itsryanarmani/clis/search-console/internal/cloudflare"
 )
 
 func bingVerifyCmd(env *Env) *cobra.Command {

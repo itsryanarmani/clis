@@ -9,8 +9,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
-	"github.com/pooriaarab/clis/search-console/internal/output"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/output"
 )
 
 type cobraCmd = cobra.Command

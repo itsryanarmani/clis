@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/pooriaarab/clis/search-console/internal/backoff"
+	"github.com/itsryanarmani/clis/search-console/internal/backoff"
 )
 
 // ErrVerifyTimeout means Google never found the TXT record in time.

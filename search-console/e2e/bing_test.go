@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/pooriaarab/clis/search-console/e2e/fakes"
+	"github.com/itsryanarmani/clis/search-console/e2e/fakes"
 )
 
 // Ways `auth bing` and `bing quota` can fail, listed before the code was written:

@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
 )
 
 // DefaultBase is the Cloudflare API. CLOUDFLARE_API_BASE overrides it.

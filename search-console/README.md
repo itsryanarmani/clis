@@ -11,7 +11,7 @@ The E2E tests run the real binary against fake Google, Bing, Cloudflare and Inde
 ## Install
 
 ```bash
-git clone https://github.com/pooriaarab/clis.git
+git clone https://github.com/itsryanarmani/clis.git
 cd clis/search-console
 make build
 ```

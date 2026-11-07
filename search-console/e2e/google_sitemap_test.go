@@ -3,7 +3,7 @@ package e2e
 import (
 	"testing"
 
-	"github.com/pooriaarab/clis/search-console/e2e/fakes"
+	"github.com/itsryanarmani/clis/search-console/e2e/fakes"
 )
 
 // Ways `google sitemap` can fail, listed before the code was written:

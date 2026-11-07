@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
 )
 
 // Limits from the sitemap protocol.

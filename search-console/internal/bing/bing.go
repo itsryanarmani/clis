@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
 )
 
 // DefaultBase is the Bing Webmaster JSON API. BING_API_BASE overrides it.

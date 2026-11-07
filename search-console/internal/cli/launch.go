@@ -11,7 +11,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
 )
 
 // step is one command that launch runs. A step that needs another is skipped

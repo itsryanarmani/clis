@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/pooriaarab/clis/search-console/internal/sitemap"
+	"github.com/itsryanarmani/clis/search-console/internal/sitemap"
 )
 
 // launchInputs are the flags that launch checks before any step runs.
