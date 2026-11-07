@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pooriaarab/clis/search-console/internal/config"
-	"github.com/pooriaarab/clis/search-console/internal/google"
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
-	"github.com/pooriaarab/clis/search-console/internal/indexnow"
-	"github.com/pooriaarab/clis/search-console/internal/sitemap"
+	"github.com/itsryanarmani/clis/search-console/internal/config"
+	"github.com/itsryanarmani/clis/search-console/internal/google"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/indexnow"
+	"github.com/itsryanarmani/clis/search-console/internal/sitemap"
 )
 
 const (

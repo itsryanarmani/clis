@@ -1,4 +1,4 @@
-module github.com/pooriaarab/clis/search-console
+module github.com/itsryanarmani/clis/search-console
 
 go 1.22
 

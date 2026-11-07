@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/pooriaarab/clis/search-console/internal/config"
+	"github.com/itsryanarmani/clis/search-console/internal/config"
 )
 
 // Resolved is the credential set after env overrides, with its source.

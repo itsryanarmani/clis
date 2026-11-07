@@ -10,8 +10,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/search-console/internal/httpx"
-	"github.com/pooriaarab/clis/search-console/internal/sitemap"
+	"github.com/itsryanarmani/clis/search-console/internal/httpx"
+	"github.com/itsryanarmani/clis/search-console/internal/sitemap"
 )
 
 // sitemapFetchBaseEnv points every sitemap request at one server. The E2E tests

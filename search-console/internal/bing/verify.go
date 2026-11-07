@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/pooriaarab/clis/search-console/internal/backoff"
+	"github.com/itsryanarmani/clis/search-console/internal/backoff"
 )
 
 // ErrVerifyTimeout means Bing never found the CNAME record in time.

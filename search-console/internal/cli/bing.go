@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/search-console/internal/bing"
+	"github.com/itsryanarmani/clis/search-console/internal/bing"
 )
 
 const bingKeyEnv = "BING_WEBMASTER_API_KEY"
