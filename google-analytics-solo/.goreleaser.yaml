@@ -42,9 +42,9 @@ checksum:
 brews:
   - name: google-analytics-solo-pp-cli
     repository:
-      owner: pooriaarab
+      owner: itsryanarmani
       name: homebrew-tap
-    homepage: "https://github.com/pooriaarab/google-analytics-solo-pp-cli"
+    homepage: "https://github.com/itsryanarmani/google-analytics-solo-pp-cli"
     description: "Flag-driven GA4 reports, one-command fan-out across every property, and a local cache for offline trends — none of which the raw Data API gives you."
     install: |
       bin.install "google-analytics-solo-pp-cli"

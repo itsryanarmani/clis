@@ -42,9 +42,9 @@ checksum:
 brews:
   - name: reddit-ads-pp-cli
     repository:
-      owner: pooriaarab
+      owner: itsryanarmani
       name: homebrew-tap
-    homepage: "https://github.com/pooriaarab/reddit-ads-pp-cli"
+    homepage: "https://github.com/itsryanarmani/reddit-ads-pp-cli"
     description: "By accessing or using the Ads API and/or associated Reddit Data, you are agreeing that you have read"
     install: |
       bin.install "reddit-ads-pp-cli"

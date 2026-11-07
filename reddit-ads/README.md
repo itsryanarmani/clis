@@ -43,14 +43,14 @@ Response | Description
 - **Rate limits:** Exceeding request limits may result in temporary throttling.
 - **Functionality restrictions:** Unless explicitly stated, alpha or beta products aren't supported in the Reddit Ads API.
 
-Created by [@pooriaarab](https://github.com/pooriaarab) (Pooria Arab).
+Created by [@itsryanarmani](https://github.com/itsryanarmani) (Pooria Arab).
 
 ## Install
 
 Build from source (requires [Go](https://go.dev/dl/) 1.22+):
 
 ```bash
-git clone https://github.com/pooriaarab/clis.git
+git clone https://github.com/itsryanarmani/clis.git
 cd clis/reddit-ads
 go build -o reddit-ads-pp-cli ./cmd/reddit-ads-pp-cli
 sudo mv reddit-ads-pp-cli /usr/local/bin/   # or anywhere on your PATH

@@ -42,9 +42,9 @@ checksum:
 brews:
   - name: posthog-pp-cli
     repository:
-      owner: pooriaarab
+      owner: itsryanarmani
       name: homebrew-tap
-    homepage: "https://github.com/pooriaarab/posthog-pp-cli"
+    homepage: "https://github.com/itsryanarmani/posthog-pp-cli"
     description: "Printing Press CLI for Posthog."
     install: |
       bin.install "posthog-pp-cli"

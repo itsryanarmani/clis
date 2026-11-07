@@ -1,0 +1,9 @@
+{
+  "name": "rename-github-owner",
+  "intent": "Use itsryanarmani for GitHub repository ownership and URLs. Preserve personal attribution and package names.",
+  "files": [
+    ".goreleaser.yaml",
+    ".printing-press.json",
+    "README.md"
+  ]
+}

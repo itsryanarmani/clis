@@ -2,7 +2,7 @@
 
 Cineplex Canada theatrical, ticketing, food, and SCENE+ API. Two auth hosts: subscription key for apis.cineplex.com; loyalty bearer for authenticated ticketing; separate SCENE+ cookie session for connect.cineplex.com.
 
-Created by [@pooriaarab](https://github.com/pooriaarab) (Pooria Arab).
+Created by [@itsryanarmani](https://github.com/itsryanarmani) (Pooria Arab).
 
 ## Install
 

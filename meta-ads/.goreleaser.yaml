@@ -42,9 +42,9 @@ checksum:
 brews:
   - name: meta-ads-pp-cli
     repository:
-      owner: pooriaarab
+      owner: itsryanarmani
       name: homebrew-tap
-    homepage: "https://github.com/pooriaarab/meta-ads-pp-cli"
+    homepage: "https://github.com/itsryanarmani/meta-ads-pp-cli"
     description: "Hand-authored OpenAPI spec for Meta's Graph API ad-management surface (campaigns, ad sets, ads, creatives, audiences"
     install: |
       bin.install "meta-ads-pp-cli"

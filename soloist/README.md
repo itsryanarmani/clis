@@ -2,7 +2,7 @@
 
 Full CRUD over your Solo (soloist.ai / main.soloist.ai) websites from the terminal or an AI agent. Talks directly to the same Firestore documents the soloist.ai /designer app reads and writes, authorized by a Firebase ID token — so the CLI can do exactly what a signed-in user can, and nothing more.
 
-Created by [@pooriaarab](https://github.com/pooriaarab) (Pooria Arab).
+Created by [@itsryanarmani](https://github.com/itsryanarmani) (Pooria Arab).
 
 ## Install
 

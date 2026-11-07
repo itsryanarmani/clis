@@ -2,7 +2,7 @@
 
 Export project traffic and behavioral insights from Microsoft Clarity. Project creation is done in the Clarity dashboard; this API exports metrics only.
 
-Created by [@pooriaarab](https://github.com/pooriaarab) (Pooria Arab).
+Created by [@itsryanarmani](https://github.com/itsryanarmani) (Pooria Arab).
 
 ## Install
 

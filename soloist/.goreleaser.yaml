@@ -42,9 +42,9 @@ checksum:
 brews:
   - name: soloist-pp-cli
     repository:
-      owner: pooriaarab
+      owner: itsryanarmani
       name: homebrew-tap
-    homepage: "https://github.com/pooriaarab/soloist-pp-cli"
+    homepage: "https://github.com/itsryanarmani/soloist-pp-cli"
     description: "Manage your Solo websites (draft + published), custom domains, and share invites directly against Firestore, the same backend the soloist.ai designer uses."
     install: |
       bin.install "soloist-pp-cli"
