@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pooriaarab/clis/submit/internal/sites"
+	"github.com/itsryanarmani/clis/submit/internal/sites"
 )
 
 // Render writes <out>/<id>.md and <out>/<id>.json for every site. It creates

@@ -1,4 +1,4 @@
-module github.com/pooriaarab/clis/submit
+module github.com/itsryanarmani/clis/submit
 
 go 1.22
 

@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/pooriaarab/clis/google-analytics/internal/ga4"
+	"github.com/itsryanarmani/clis/google-analytics/internal/ga4"
 )
 
 func TestFlattenRowsAndEnrich(t *testing.T) {

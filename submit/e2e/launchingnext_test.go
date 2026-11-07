@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/pooriaarab/clis/submit/e2e/fakes"
+	"github.com/itsryanarmani/clis/submit/e2e/fakes"
 )
 
 func TestLaunchingNextDryRunShowsBodies(t *testing.T) {

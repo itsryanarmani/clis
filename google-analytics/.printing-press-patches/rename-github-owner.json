@@ -1,0 +1,21 @@
+{
+  "schema_version": 2,
+  "id": "rename-github-owner",
+  "applied_at": "2026-11-07",
+  "base_run_id": "ga4-20260612",
+  "base_printing_press_version": "4.20.1",
+  "summary": "Use the current GitHub owner for repository metadata, source paths, and links.",
+  "reason": "An old login redirect ends when another user claims the name. Keep App names and personal attribution unchanged.",
+  "files": [
+    "cmd/google-analytics-pp-cli/main.go",
+    "go.mod",
+    "internal/cli/admin_commands.go",
+    "internal/cli/builders.go",
+    "internal/cli/health.go",
+    "internal/cli/novel_reports.go",
+    "internal/cli/raw_commands.go",
+    "internal/cli/root.go",
+    "internal/cli/transform.go",
+    "internal/cli/transform_test.go"
+  ]
+}

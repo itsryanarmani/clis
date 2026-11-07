@@ -2,9 +2,9 @@
 
 ## Purpose
 
-`pooriaarab/clis` collects runnable command-line clients for APIs that lack suitable official tools.
+`itsryanarmani/clis` collects runnable command-line clients for APIs that lack suitable official tools.
 
-The collection complements `pooriaarab/skills`. Skills explain workflows, while this repository contains executable source.
+The collection complements `itsryanarmani/skills`. Skills explain workflows, while this repository contains executable source.
 
 Each top-level product directory is an independent Go module. Its README defines setup, credentials, coverage, and current limits.
 

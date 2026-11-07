@@ -5,9 +5,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/submit/internal/config"
-	"github.com/pooriaarab/clis/submit/internal/directories"
-	"github.com/pooriaarab/clis/submit/internal/store"
+	"github.com/itsryanarmani/clis/submit/internal/config"
+	"github.com/itsryanarmani/clis/submit/internal/directories"
+	"github.com/itsryanarmani/clis/submit/internal/store"
 )
 
 func trackCmd(env *Env) *cobra.Command {

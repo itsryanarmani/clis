@@ -3,7 +3,7 @@ package cli
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/pooriaarab/clis/submit/internal/sites"
+	"github.com/itsryanarmani/clis/submit/internal/sites"
 )
 
 // sitesFlag registers --sites on cmd and returns a loader. Resolution:

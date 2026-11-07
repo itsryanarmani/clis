@@ -1,7 +1,7 @@
 # buzz-cli — spec (v1: full GUI parity + headless agents/fleet)
 
 A standalone Go CLI that does **everything the Buzz desktop app does**, headlessly,
-by speaking the Buzz relay protocol directly. Home: `pooriaarab/clis/buzz`.
+by speaking the Buzz relay protocol directly. Home: `itsryanarmani/clis/buzz`.
 Sibling binary: an MCP server (`cmd/buzz-mcp`) exposing the same operations as tools
 (mirror the `soloist` layout).
 

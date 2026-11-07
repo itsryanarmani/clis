@@ -1,4 +1,4 @@
-module github.com/pooriaarab/clis/google-analytics
+module github.com/itsryanarmani/clis/google-analytics
 
 go 1.26.5
 

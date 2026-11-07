@@ -13,7 +13,7 @@ It also learns. Ask it something once and it caches the resource lookup; ask som
 Build from source (requires [Go](https://go.dev/dl/) 1.22+):
 
 ```bash
-git clone https://github.com/pooriaarab/clis.git
+git clone https://github.com/itsryanarmani/clis.git
 cd clis/google-ads
 go build -o google-ads-pp-cli ./cmd/google-ads-pp-cli
 sudo mv google-ads-pp-cli /usr/local/bin/   # or anywhere on your PATH
